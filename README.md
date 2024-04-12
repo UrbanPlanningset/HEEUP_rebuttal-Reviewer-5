@@ -23,12 +23,14 @@ Note that different building types within the 25x25 grid form independent buildi
    - Shows the relative energy intensity of all buildings in each 25x25 grid to which LCZ category they correspond.
    - Each grid cell is color-coded to represent a specific LCZ category, using a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, reflecting the impact of building structure and vegetation cover Urban microclimate.
 
+**By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban structures. 
+This proves that the HEEUP planning strategy is based on reasonable layout.**
+
 <p align="center">
   <img src="Energy.png" alt="Relative Energy Intensity Display" width="49%" />
   <img src="LCZ_gird.png" alt="LCZ Category Correspondence" width="49%" />
 </p>
-By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban buildings. 
-This proves that the HEEUP planning strategy is based on reasonable layout.
+
 
 ---
 - **Table 1: Building Types**
