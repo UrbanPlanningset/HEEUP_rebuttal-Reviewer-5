@@ -10,17 +10,17 @@
 | Reward       | Energy efficiency as the core metric at each hierarchical level | Service quality, ecological balance, and traffic flow efficiency make up a composite reward system | Two-stage connectivity priority reward system | Tiered focus on energy in HEEUP vs. diverse urban benefits in [1], [2].|
 
 ---
-## Figure 5(b) Supplement
+## Q2 Supplement
 What we want to show through the illustration is that the goal of HEEUP is not only to reduce energy consumption, but also to ensure the rationality of the overall layout of urban structure, land use configuration and architectural design.
 
 Note that different building types within the 25x25 grid form independent building distributions (building types in table 1). Different building distributions form corresponding urban structure types (Table 3). For example, a large number of Large offices are distributed to form Compact high-rise. In addition, each building type energy consumption and urban structure type corresponds to specific energy consumption standards (Table 2, Table 4). Below are detailed descriptions of two supplementary charts:
 
-- **Figure 1 (left): Building types distribution**
+- **Figure 1 (left): Figure 5(b) in the manuscript.**
    - Shows the relative energy intensity distribution of all buildings within a 25x25 grid.
    - Use a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, to visually display the energy distribution status of the entire area.
 
-- **Figure 2 (right): Building types distribution of LCZ**
-   - Shows the relative energy intensity of all buildings in each 25x25 grid to which LCZ category they correspond.
+- **Figure 2 (right): LCZ categories corresponding to the distribution of building types.**
+   - Shows the relative energy intensity of all buildings distribution in each 25x25 grid to which LCZ category they correspond.
    - Each grid cell is color-coded to represent a specific LCZ category, using a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, reflecting the impact of building structure and vegetation cover Urban microclimate.
 
 **By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban structures. 
