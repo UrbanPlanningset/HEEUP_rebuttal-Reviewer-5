@@ -10,47 +10,71 @@
 | Reward       | Energy efficiency as the core metric at each hierarchical level | Service quality, ecological balance, and traffic flow efficiency make up a composite reward system | Two-stage connectivity priority reward system | Tiered focus on energy in HEEUP vs. diverse urban benefits in [1], [2].|
 
 ## Figure 5(b) Supplement
-We have additionally added the urban function type corresponding to 25*25. Each urban function type has a corresponding standard energy consumption. By comparison, it can be found that the energy consumption of buildings within the grid area is consistent with the energy consumption of urban structures. This proves that the HEEUP planning strategy is based on reasonable layout.
+What we want to show through the illustration is that the goal of HEEUP is not only to reduce energy consumption, but also to ensure the rationality of the overall layout of urban structure, land use configuration and architectural design.
 
-The goal of HEEUP is not just to reduce energy consumption, but to ensure the rationality of urban structures → land use configuration → building design. This approach emphasizes the importance of overall planning while also taking into account the need for energy conservation.
+To this end, we have supplemented the documentation with urban structure types within a 25x25 grid (In Table 3). In addition, each urban functional type corresponds to specific energy consumption standards (In Table 2). Below is a detailed description of the two charts:
 
-## Displays the relative energy intensity of all buildings in each of the 25*25 grids.
+- **Figure 1: Building types distribution**
+   - Shows the relative energy intensity distribution of all buildings within a 25x25 grid.
+   - Use a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, to visually display the energy distribution status of the entire area.
 
-![alt text](Energy.png)
-
-
-## Displays the LCZ category corresponding to the relative energy intensity of all buildings in each of the 25*25 grids.
-![alt text](LCZ_gird.png)
-
-### Building Type Energy Consumption
-
-| Code | Energy Usage (kWh) | | Code | Energy Usage (kWh) |
-|------|--------------------|-|------|--------------------|
-| 0    | 4,439.06           | | 8    | 3,307.50           |
-| 1    | 5,186.65           | | 9    | 5,643.98           |
-| 2    | 65,149.95          | | 10   | 21,095.52          |
-| 3    | 14,070.69          | | 11   | 9,477.88           |
-| 4    | 9,170.01           | | 12   | 24,177.49          |
-| 5    | 984.60             | | 13   | 54,797.58          |
-| 6    | 3,981.91           | | 14   | 96,722.39          |
-| 7    | 5,192.43           | | 15   | 135,819.14         |
+- **Figure 2: Building types distribution of LCZ**
+   - Shows the relative energy intensity of all buildings in each 25x25 grid to which LCZ category they correspond.
+   - Each grid cell is color-coded to represent a specific LCZ category, using a color gradient (from green to red) to represent energy consumption levels, with green representing low energy consumption and red representing high energy consumption, reflecting the impact of building structure and vegetation cover Urban microclimate.
+   - 
+<div align="center">
+  <div style="display: inline-block; width: 49%; text-align: center;">
+    <img src="Energy.png" alt="Relative Energy Intensity Display" style="width: 100%;" /><br>
+    <strong>Figure 1: Relative Energy Intensity Display</strong>
+  </div>
+  <div style="display: inline-block; width: 49%; text-align: center;">
+    <img src="LCZ_gird.png" alt="LCZ Category Correspondence" style="width: 100%;" /><br>
+    <strong>Figure 2: LCZ Category Correspondence</strong>
+  </div>
+</div>
 
 
 
-### Local Climate Zone Energy Consumption
+<p align="center">
+  <img src="Energy.png" alt="Relative Energy Intensity Display" width="49%" />
+  <img src="LCZ_gird.png" alt="LCZ Category Correspondence" width="49%" />
+</p>
 
-| LCZ  | Energy Consumption (kWh) | | LCZ  | Energy Consumption (kWh) |
-|------|---------------------------|-|------|---------------------------|
-| 0    | 1,701,204.86              | | 8    | 2,275,585.12              |
-| 1    | 2,279,408.75              | | 9    | 34,655.61                 |
-| 2    | 1,740,707.20              | | 10   | 12,466.32                 |
-| 3    | 1,905,982.95              | | 11   | 236,784                   |
-| 4    | 1,775,184.72              | | 12   | 12,323.35                 |
-| 5    | 3,423,751.57              | | 13   | 623,545.11                |
-| 6    | 5,326,511.59              | | 14   | 933,454.423               |
-| 7    | 2,059,901.91              | | 15   | 246,323.32                |
+By comparison, it can be found that the energy consumption of buildings in the grid area is consistent with that of urban buildings. This proves that the HEEUP planning strategy is based on reasonable layout.
 
-### Local Climate Zone (LCZ)
+
+
+
+
+### Table 1: Building Type Energy Consumption
+
+| Code | Energy Usage (kWh) | Code | Energy Usage (kWh) |
+|------|--------------------|------|--------------------|
+| 0    | 4,439.06           |  8    | 3,307.50           |
+| 1    | 5,186.65           |  9    | 5,643.98           |
+| 2    | 65,149.95          |  10   | 21,095.52          |
+| 3    | 14,070.69          |  11   | 9,477.88           |
+| 4    | 9,170.01           |  12   | 24,177.49          |
+| 5    | 984.60             |  13   | 54,797.58          |
+| 6    | 3,981.91           |  14   | 96,722.39          |
+| 7    | 5,192.43           |  15   | 135,819.14         |
+
+
+
+### Table 2: Local Climate Zone Energy Consumption
+
+| LCZ  | Energy Consumption (kWh) | LCZ  | Energy Consumption (kWh) |
+|------|---------------------------|------|---------------------------|
+| 0    | 1,701,204.86              |  8    | 2,275,585.12              |
+| 1    | 2,279,408.75              |  9    | 34,655.61                 |
+| 2    | 1,740,707.20              |  10   | 12,466.32                 |
+| 3    | 1,905,982.95              |  11   | 236,784                   |
+| 4    | 1,775,184.72              |  12   | 12,323.35                 |
+| 5    | 3,423,751.57              |  13   | 623,545.11                |
+| 6    | 5,326,511.59              |  14   | 933,454.423               |
+| 7    | 2,059,901.91              |  15   | 246,323.32                |
+
+### Table 3: Local Climate Zone (LCZ)
 
 | Code | Building Themes        | Code | Building Themes             |
 |------|------------------------|------|-----------------------------|
